@@ -4,12 +4,14 @@ body{
 .title1{
     position:fixed;
     background-color:#1c7180bb;
-    width: 100%;
+    width:98%;
     border: 2px dashed rgb(5, 25, 85);
+    height: 35%;
     
 }
 .know-me{
     padding-top: 20%;
+    margin: auto;
     
 }
 .links {
